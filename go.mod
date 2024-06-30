@@ -1,1 +1,1 @@
-module github.com/TeslaMode1X/my-test-project/v3
+module github.com/TeslaMode1X/for_task
